@@ -1,5 +1,5 @@
 # rqlive-server
-node server for rqlive
+A low-latency, synchronized server for stage/crowd interactions. MAX-MSP embeddable
 
 ## Function A: Broadcasting actions over socket.io
 ---
